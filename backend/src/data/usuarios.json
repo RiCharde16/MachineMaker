@@ -1,0 +1,290 @@
+[
+  {
+    "id": 1,
+    "nome": "Ricardo Soares",
+    "email": "ricardo@gmail.com",
+    "senha": "$2b$12$uh8T8rPwCObshp1ZBUBBlugRpXnScqP4hpJZa9H9tlT0rKLrXu5ku",
+    "simulacoes": []
+  },
+  {
+    "id": 2,
+    "nome": "Maria Clara",
+    "email": "maria@gmail.com",
+    "senha": "$2b$10$Br.xrmzswesS5.GAWCbYyOidoyuEQOU0gg5978Y.4ys4z9g/5TWdS",
+    "simulacoes": [
+      {
+        "processador": [
+          {
+            "preco": "2299.9",
+            "loja": "Kabum",
+            "site": "https://www.kabum.com.br",
+            "modelo": "AMD Ryzen 7 5800X"
+          }
+        ],
+        "cooler_processador": [
+          {
+            "preco": "179.9",
+            "loja": "Terabyte Shop",
+            "site": "https://www.terabyteshop.com.br",
+            "modelo": "Cooler Master Hyper 212"
+          }
+        ],
+        "armazenamento": [
+          {
+            "preco": "849.9",
+            "loja": "Kabum",
+            "site": "https://www.kabum.com.br",
+            "modelo": "Crucial P1 1TB NVMe"
+          }
+        ],
+        "memoria": [
+          {
+            "preco": "899.9",
+            "loja": "Kabum",
+            "site": "https://www.kabum.com.br",
+            "modelo": "Kingston HyperX Predator 16GB (2x8GB) DDR4 3200MHz"
+          }
+        ],
+        "placa_mae": [
+          {
+            "preco": "1299.9",
+            "loja": "Kabum",
+            "site": "https://www.kabum.com.br",
+            "modelo": "MSI MAG B550 Tomahawk"
+          }
+        ],
+        "placa_video": [
+          {
+            "preco": "3499.9",
+            "loja": "Kabum",
+            "site": "https://www.kabum.com.br",
+            "modelo": "NVIDIA GeForce RTX 3060 Ti"
+          }
+        ],
+        "gabinete": [
+          {
+            "preco": "449.9",
+            "loja": "Kabum",
+            "site": "https://www.kabum.com.br",
+            "modelo": "Thermaltake V200 RGB"
+          }
+        ],
+        "fonte": [
+          {
+            "preco": "499.9",
+            "loja": "Pichau",
+            "site": "https://www.pichau.com.br",
+            "modelo": "Gigabyte P650B 650W 80 Plus Bronze"
+          }
+        ]
+      },
+      {
+        "processador": [
+          {
+            "preco": "2299.9",
+            "loja": "Kabum",
+            "site": "https://www.kabum.com.br",
+            "modelo": "AMD Ryzen 7 5800X"
+          }
+        ],
+        "cooler_processador": [
+          {
+            "preco": "149.9",
+            "loja": "Kabum",
+            "site": "https://www.kabum.com.br",
+            "modelo": "DeepCool Gammaxx 400"
+          }
+        ],
+        "armazenamento": [
+          {
+            "preco": "1199.9",
+            "loja": "Terabyte Shop",
+            "site": "https://www.terabyteshop.com.br",
+            "modelo": "Samsung 970 EVO Plus 1TB NVMe"
+          }
+        ],
+        "memoria": [
+          {
+            "preco": "899.9",
+            "loja": "Kabum",
+            "site": "https://www.kabum.com.br",
+            "modelo": "Kingston HyperX Predator 16GB (2x8GB) DDR4 3200MHz"
+          }
+        ],
+        "placa_mae": [
+          {
+            "preco": "1199.9",
+            "loja": "Terabyte Shop",
+            "site": "https://www.terabyteshop.com.br",
+            "modelo": "Gigabyte B550 AORUS Elite"
+          }
+        ],
+        "placa_video": [
+          {
+            "preco": "5799.9",
+            "loja": "Terabyte Shop",
+            "site": "https://www.terabyteshop.com.br",
+            "modelo": "NVIDIA GeForce RTX 3080"
+          }
+        ],
+        "gabinete": [
+          {
+            "preco": "299.9",
+            "loja": "Pichau",
+            "site": "https://www.pichau.com.br",
+            "modelo": "Cooler Master MasterBox Q300L"
+          }
+        ],
+        "fonte": [
+          {
+            "preco": "649.9",
+            "loja": "Pichau",
+            "site": "https://www.pichau.com.br",
+            "modelo": "Corsair RM750x 750W 80 Plus Gold"
+          }
+        ]
+      },
+      {
+        "processador": [
+          {
+            "preco": "2499.9",
+            "loja": "Kabum",
+            "site": "https://www.kabum.com.br",
+            "modelo": "Intel Core i7-11700K"
+          }
+        ],
+        "cooler_processador": [
+          {
+            "preco": "179.9",
+            "loja": "Terabyte Shop",
+            "site": "https://www.terabyteshop.com.br",
+            "modelo": "Cooler Master Hyper 212"
+          }
+        ],
+        "armazenamento": [
+          {
+            "preco": "899.9",
+            "loja": "Pichau",
+            "site": "https://www.pichau.com.br",
+            "modelo": "Kingston A2000 1TB NVMe"
+          }
+        ],
+        "memoria": [
+          {
+            "preco": "899.9",
+            "loja": "Kabum",
+            "site": "https://www.kabum.com.br",
+            "modelo": "Corsair Vengeance LPX 16GB (2x8GB) DDR4 3200MHz"
+          }
+        ],
+        "placa_mae": [
+          {
+            "preco": "649.9",
+            "loja": "Kabum",
+            "site": "https://www.kabum.com.br",
+            "modelo": "ASUS Prime B450M-A II"
+          }
+        ],
+        "placa_video": [
+          {
+            "preco": "3499.9",
+            "loja": "Kabum",
+            "site": "https://www.kabum.com.br",
+            "modelo": "NVIDIA GeForce RTX 3060 Ti"
+          }
+        ],
+        "gabinete": [
+          {
+            "preco": "599.9",
+            "loja": "Terabyte Shop",
+            "site": "https://www.terabyteshop.com.br",
+            "modelo": "NZXT H510"
+          }
+        ],
+        "fonte": [
+          {
+            "preco": "349.9",
+            "loja": "Terabyte Shop",
+            "site": "https://www.terabyteshop.com.br",
+            "modelo": "Cooler Master MWE 550W 80 Plus Bronze"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "nome": "Richard silva",
+    "email": "richard@gmail.com",
+    "senha": "$2b$10$Xa0n0uO/M890jnK2nUG7bOo9pr5SIShd5ZuRAckr6/pgv/XPfr0Nu",
+    "siulacoes": [],
+    "simulacoes": [
+      {
+        "processador": [
+          {
+            "preco": "2499.9",
+            "loja": "Kabum",
+            "site": "https://www.kabum.com.br",
+            "modelo": "Intel Core i7-11700K"
+          }
+        ],
+        "cooler_processador": [
+          {
+            "preco": "259.9",
+            "loja": "Terabyte Shop",
+            "site": "https://www.terabyteshop.com.br",
+            "modelo": "Be Quiet! Pure Rock 2"
+          }
+        ],
+        "armazenamento": [
+          {
+            "preco": "899.9",
+            "loja": "Pichau",
+            "site": "https://www.pichau.com.br",
+            "modelo": "Kingston A2000 1TB NVMe"
+          }
+        ],
+        "memoria": [
+          {
+            "preco": "899.9",
+            "loja": "Kabum",
+            "site": "https://www.kabum.com.br",
+            "modelo": "Kingston HyperX Predator 16GB (2x8GB) DDR4 3200MHz"
+          }
+        ],
+        "placa_mae": [
+          {
+            "preco": "1199.9",
+            "loja": "Terabyte Shop",
+            "site": "https://www.terabyteshop.com.br",
+            "modelo": "Gigabyte B550 AORUS Elite"
+          }
+        ],
+        "placa_video": [
+          {
+            "preco": "5799.9",
+            "loja": "Terabyte Shop",
+            "site": "https://www.terabyteshop.com.br",
+            "modelo": "NVIDIA GeForce RTX 3080"
+          }
+        ],
+        "gabinete": [
+          {
+            "preco": "599.9",
+            "loja": "Terabyte Shop",
+            "site": "https://www.terabyteshop.com.br",
+            "modelo": "NZXT H510"
+          }
+        ],
+        "fonte": [
+          {
+            "preco": "499.9",
+            "loja": "Pichau",
+            "site": "https://www.pichau.com.br",
+            "modelo": "Gigabyte P650B 650W 80 Plus Bronze"
+          }
+        ]
+      }
+    ]
+  }
+]
